@@ -26,14 +26,14 @@ This course emphasizes **learning-by-doing**, enabling students to explore data,
 
 ## 🚀 Features of This Repository
 
-✔ ** Well-structured unit-wise content**
-✔ ** Colab-ready notebooks** with “Open in Colab” support
-✔ ** Beginner-friendly explanations** & visualizations
-✔ ** Assignments + practice tasks** for each unit
-✔ ** Real datasets** for hands-on learning
-✔ ** Mini-project templates** for student submissions
-✔ ** Vedic Mathematics Sutra implementations (Unit 4)**
-✔ ** Continuously updated with new notebooks and improvements**
+✔ **Well-structured unit-wise content**
+✔ **Colab-ready notebooks** with “Open in Colab” support
+✔ **Beginner-friendly explanations** & visualizations
+✔ **Assignments + practice tasks** for each unit
+✔ **Real datasets** for hands-on learning
+✔ **Mini-project templates** for student submissions
+✔ **Vedic Mathematics Sutra implementations (Unit 4)**
+✔ **Continuously updated with new notebooks and improvements**
 
 ---
 
