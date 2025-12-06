@@ -42,26 +42,58 @@ This course emphasizes **learning-by-doing**, enabling students to explore data,
 ```bash
 data-analytics-using-python/
 │
-├── notebooks/
-│   ├── Unit1_Fundamentals.ipynb
-│   ├── Unit2_Automated_EDA.ipynb
-│   ├── Unit3_Supervised_Learning.ipynb
-│   └── Unit4_Vedic_Math_Sutras.ipynb
+├── 1_Syllabus/
+│   ├── 602_Data_Analytics_using_Python.pdf         # official syllabus (uploaded)
+│   
+│   
 │
-├── datasets/
-│   ├── students.csv
-│   ├── iris.csv
-│   └── house_prices.csv
+├── 2_Lecture_Notes/
+│   ├── Unit1_Fundamentals
+│   ├── Unit2_Automated_EDA/
+│   ├── Unit3_Supervised_Learning/
+│   └── Unit4_Vedic_Math_Sutras/
 │
-├── assignments/
-│   ├── Unit1_Assignment.ipynb
-│   ├── Unit2_Assignment.ipynb
-│   └── Unit3_Assignment.ipynb
+├── 3_Projects_Presentations/
+│   ├── Mini_Project_Template.ipynb
+│   ├── Student_Submissions/          # (one folder per student/group or zipped uploads)
+│   └── Project_Evaluation_Rubric.md
 │
-├── projects/
-│   └── Mini_Project_Template.ipynb
+├── 4_Assignments/
+│   ├── Unit1_Assignment/
+│   ├── Unit2_Assignment/
+│   └── Unit3_Assignment/
 │
-└── README.md
+├── 5_QuestionBank/
+│   ├── Unit1_MCQ.md
+│   ├── Unit1_Short_Long_Questions.md
+│   └── Practical_Exam_Questions.md
+│
+├── 6_eBooks_ExtraResources/
+│   ├── Reema_Thareja_Python_for_Data_Analysis.pdf   # if allowed by license / links
+│   ├── References.md                                # canonical reading list + links
+│   └── Tutorials/                                   # curated external links
+│
+├── 7_Previous_Year_Papers/
+│
+├── resources/
+│   ├── datasets/
+│   │   ├── students_performance.csv
+│   │   ├── iris.csv
+│   │   └── house_prices.csv
+│   ├── notebooks/
+│   │   ├── notebooks_list.md        # index of notebooks + "Open in Colab" links
+│   │   ├── Unit1_Fundamentals.ipynb
+│   │   ├── Unit1_Student_Workbook.ipynb
+│   │   └── Unit2_Automated_EDA.ipynb
+│   ├── assets/
+│   │   ├── github_banner.png
+│   │   └── logos/
+│   └── data_dictionary.md
+│
+├── README.md
+├── LICENSE
+└── .gitignore
+
 ```
 
 ---
